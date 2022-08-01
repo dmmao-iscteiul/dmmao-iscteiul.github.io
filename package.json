@@ -1,6 +1,11 @@
 {
   "name": "testing",
   "version": "1.0.0",
+  "description": "node app ",
+  "main": "app.js",
+  "scripts": {
+  "start": "node app.js"
+  },
   "dependencies": {
     "http-server": "^0.9.0",
     "live-server": "^1.2.0"
